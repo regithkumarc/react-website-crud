@@ -1,0 +1,44 @@
+Comments :
+
+Router :
+
+npm install --save react-router
+
+Router-Dom :
+
+npm install --save react-router-dom
+
+FormGroup :
+
+npm install --save reactstrap react react-dom
+npm i  react-formgroup
+
+Material UI :
+Password Enable Disable :
+
+npm install @material-ui/core
+npm install @material-ui/icons
+
+Hooks :
+
+https://stackoverflow.com/questions/37295377/how-to-navigate-from-one-page-to-another-in-react-js
+
+
+Axios :
+
+npm install axios --save
+
+https://www.javaguides.net/2020/08/reactjs-axios-get-post-put-and-delete-example-tutorial.html
+
+axios.request(config)
+axios.get(url[, config])
+axios.delete(url[, config])
+axios.head(url[, config])
+axios.options(url[, config])
+axios.post(url[, data[, config]])
+axios.put(url[, data[, config]])
+axios.patch(url[, data[, config]])
+
+Bootstrap :
+
+npm install bootstrap --save
